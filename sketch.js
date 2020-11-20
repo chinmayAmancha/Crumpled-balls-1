@@ -6,6 +6,9 @@ class paper{
 			friction: 0.5,
 			density: 1.2
 		}
+		
+		
+		this.image = loadImage("sprites/paper.png");
 	}
 }
 
